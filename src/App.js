@@ -4,20 +4,20 @@ import quotes from './QuoteDB';
 
 export default class App extends Component {
 
-  //state
+  // State
   state = {
     quote: quotes[0].quote,
     author: quotes[0].author
   }
 
-  //generate diffrent quote function
+  // Generate different quote function
   generateRandomQuote = (arr) => {
-    //get random numbers
+    // Get random numbers
     let num = Math.floor(Math.random() * quotes.length)
 
     let newQuote = quotes[num];
 
-    //update state
+    // Update state
     this.setState({
       quote: newQuote.quote,
       author: newQuote.author
@@ -27,7 +27,7 @@ export default class App extends Component {
 
   }
 
-  //shuufle quotes function
+  // Shuffle quotes function
   shuffleQuotes = (arr) => {
     return arr.sort(function () { return 0.5 - Math.random() });
   }
