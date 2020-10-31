@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import QuoteAndAuthor from './components/QuoteAndAuthor';
 import quotes from './QuoteDB';
+import Footer from './components/Footer';
+import Zoom from 'react-reveal/Zoom';
 
 export default class App extends Component {
 
@@ -34,12 +36,14 @@ export default class App extends Component {
 
   render() {
     return (
-      <div className="container">
-        <h1 className="text-center"><i class="fas fa-quote-left"></i> Random Quote Machine <i class="fas fa-quote-right"></i></h1>
+      <div className="container">   
+      <Zoom>     
         <QuoteAndAuthor
           generateRandomQuote={this.generateRandomQuote}
           quote={this.state}
         />
+      </Zoom>
+      <Footer />
       </div>
     )
   }

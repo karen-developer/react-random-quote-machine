@@ -1,29 +1,27 @@
 const quotes = [
     {
-        "quote": "Forget all the reasons why it won't work and believe the one reason why it will",
-        "author": "Unknown"
+        "quote": "I have no special talents. I am only passionately curious.",
+        "author": "Albert Einstein"
     },
     {
-        "quote": "Always do what you are afraid to do",
-        "author": "Ralph Waldo Emerson"
+        "quote": "By seeking and blundering we learn.",
+        "author": "Johann Wolfgang von Goethe"
     },
-
     {
         "quote": "Don’t be intimidated by what you don’t know. That can be your greatest strength and ensure that you do things differently from everyone else.",
         "author": "Sara Blakely"
     },
     {
-        "quote": "If you keep on doing what you've always done, you will keep getting what you've always gotten.",
-        "author": "Unknown"
+        "quote": "It always seems impossible until it's done.",
+        "author": "Nelson Mandela"
     },
     {
-        "quote": " For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. John 3:16",
-        "author": "Jesus Christ"
+        "quote": "A winner is a dreamer who never gives up.",
+        "author": "Nelson Mandela"
     },
     {
-        "quote": "The surest way to find your dream job is to create it.",
-        "author": "Unknown"
-
+        "quote": "Aim for the moon. If you miss, you may hit a star.",
+        "author": "W. Clement Stone"
     },
     {
         "quote": "You are confined only by the walls you build yourself.",
@@ -38,16 +36,15 @@ const quotes = [
         "author": "Martin Luther King"
     },
     {
-        "quote": "How many success stories do you need to hear before you make your own?",
-        "author": "Unknown"
+        "quote": "Everybody has talent, but ability takes hard work.",
+        "author": "Michael Jordan"
     },
     {
-        "quote": "Watch carefully the magic that occurs when you give a person just enough comfort to be themselves",
+        "quote": "Watch carefully the magic that occurs when you give a person just enough comfort to be themselves.",
         "author": "Atticus"
     },
-
     {
-        "quote": "You never know how strong you are, until being strong is your only choice",
+        "quote": "You never know how strong you are, until being strong is your only choice.",
         "author": "Bob Marley"
     },
     {
@@ -63,12 +60,12 @@ const quotes = [
         "author": "Mark Twain"
     },
     {
-        "quote": "And the God of all grace, who called you to his eternal glory in Christ, after you have suffered a little while, will himself restore you and make you strong, firm and steadfast.",
-        "author": "IPeter 5:10"
+        "quote": "Failure will never overtake me if my determination to succeed is strong enough.",
+        "author": "Og Mandino"
     },
     {
-        "quote": "A I can do all things through Christ who strengthens me.",
-        "author": "Philipians4:13"
+        "quote": "If you don't risk anything, you risk even more.",
+        "author": "Erica Jong"
     },
     {
         "quote": "Time you enjoy wasting is not wasted time",
@@ -83,8 +80,8 @@ const quotes = [
         "author": "Eckhart Tolle"
     },
     {
-        "quote": "If you want to lift yourself up, lift up someone else",
-        "author": "Booker T. Washington"
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius"
     },
     {
         "quote": "Muddy water is best cleared by leaving it alone.",
@@ -95,24 +92,68 @@ const quotes = [
         "author": "Peter Drucker"
     },
     {
-        "quote": "Strength does not come from winning. Your struggles develop your strengths",
+        "quote": "Strength does not come from winning. Your struggles develop your strengths.",
         "author": "Arnold Schwarzenegger"
     },
     {
-        "quote": "Whenever you are confronted with an opponent, conquer them with love",
+        "quote": "Whenever you are confronted with an opponent, conquer them with love.",
         "author": "Mahatma Gandhi"
     },
     {
-        "quote": "Enjoy the little things, for one day you may look back and realize they were the big things",
+        "quote": "Enjoy the little things, for one day you may look back and realize they were the big things.",
         "author": "Robert Brault"
     },
     {
-        "quote": "Do something today that your future self will thank you for",
+        "quote": "Do something today that your future self will thank you for.",
         "author": "Sean Patrick Flanery"
     },
     {
-        "quote": "It is not the load that breaks you down. It's the way you carry it",
+        "quote": "It is not the load that breaks you down. It's the way you carry it.",
         "author": "Lou Holtz"
+    },
+    {
+        "quote": "Without hard work, nothing grows but weeds.",
+        "author": "Gordon B. Hinckley"
+    },
+    {
+        "quote": "Quality is not an act, it is a habit.",
+        "author": "Aristotle"
+    },
+    {
+        "quote": "There is only one thing that makes a dream impossible to achieve: the fear of failure.",
+        "author": "Paulo Coelho"
+    },
+    {
+        "quote": "Real knowledge is to know the extent of one's ignorance.",
+        "author": "Confucius"
+    },
+    {
+        "quote": "Life shrinks or expands in proportion with one's courage.",
+        "author": "Anaïs Nin"
+    },
+    {
+        "quote": "The harder the conflict, the more glorious the triumph.",
+        "author": "Thomas Paine"
+    },
+    {
+        "quote": "The work of today is the history of tomorrow, and we are its makers.",
+        "author": "Juliette Gordon Low"
+    },
+    {
+        "quote": "Arise, Awake and Stop not until the goal is reached",
+        "author": "Swami Vivekananda"
+    },
+    {
+        "quote": "It's not whether you get knocked down, it's whether you get up.",
+        "author": "Vince Lombardi"
+    },
+    {
+        "quote": "The harder I work, the luckier I get.",
+        "author": "Gary Player"
+    },
+    {
+        "quote": "You only live once, but if you do it right, once is enough.",
+        "author": "Mae West"
     },
 ]
 
