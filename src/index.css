@@ -1,17 +1,21 @@
-body, html {
+body {
   margin: 0;
   font-family: 'Raleway', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-image: url(back.jpg);
   background-position: center;
-  background-size: cover;
+  background-repeat: no-repeat;
   background-color: black;
 }
 
 .card {
   margin: 25% auto;
   opacity: 0.9;
+}
+
+.btn {
+  margin-bottom: -2%;
 }
 
 .pulse {
