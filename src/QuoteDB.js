@@ -7,11 +7,7 @@ const quotes = [
         "quote": "By seeking and blundering we learn.",
         "author": "Johann Wolfgang von Goethe"
     },
-    {
-        "quote": "Don’t be intimidated by what you don’t know. That can be your greatest strength and ensure that you do things differently from everyone else.",
-        "author": "Sara Blakely"
-    },
-    {
+      {
         "quote": "It always seems impossible until it's done.",
         "author": "Nelson Mandela"
     },
@@ -38,10 +34,6 @@ const quotes = [
     {
         "quote": "Everybody has talent, but ability takes hard work.",
         "author": "Michael Jordan"
-    },
-    {
-        "quote": "Watch carefully the magic that occurs when you give a person just enough comfort to be themselves.",
-        "author": "Atticus"
     },
     {
         "quote": "You never know how strong you are, until being strong is your only choice.",
