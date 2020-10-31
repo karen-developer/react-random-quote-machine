@@ -10,7 +10,7 @@ export default function QuoteAndAuthor(props) {
             <div className="card-body">
             
                 <h2 className="text-info text-center p-2"><i class="fas fa-quote-left"></i></h2>
-                <h4 id="text" class="card-text p-4">"{quote.quote}"</h4>
+                <h4 id="text" class="card-text p-2">"{quote.quote}"</h4>
                 <h6 id="author" className="card-title text-center font-italic p-2">- {quote.author} -</h6>
 
                 <p id="tweet-quote" className="btn btn-info"
