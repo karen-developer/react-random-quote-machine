@@ -10,6 +10,10 @@ body {
   height: 100vh;
 }
 
+p {
+  font-size: smaller;
+}
+
 .card {
   margin: 25% auto;
   opacity: 0.9;
