@@ -20,7 +20,7 @@ export default function QuoteAndAuthor(props) {
                     }}
                     type="submit"><i class="fab fa-twitter"></i></p>
 
-                <p id="new-quote" className="btn btn-info float-right pulse"
+                <p id="new-quote" className="btn btn-info float-right"
                     onClick={() => { generateRandomQuote(quotes) }}
                     type="submit">
                     <i class="fas fa-angle-double-right"></i></p>            
